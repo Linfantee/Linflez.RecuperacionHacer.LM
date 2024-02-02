@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+healer {
+	font-family: Arial, sans-serif;
+	background-color: palevioletred;
+}
+
+h1{
+	color:blue;
+	margin-top:3rem;
+	font-size: 2.5rem;
+	text-decoration: underline orange wavy;
+	margin-left:30%;
+	width:20%;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-bottom: 0.5rem;
+}
+
+hr{
+	width: 100rem;
+   
+    border-top: 5px solid blue; 
+}
+
+p {
+	font-size: 1rem;
+	margin-bottom: 1rem;
+}
+
+form {
+	width: 300px;
+	margin: 0 auto;
+}
+
+label {
+	display: block;
+	margin-top: 10px;
+}
+
+input[type="text"],
+input[type="password"] {
+	width: 100%;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+button {
+	background-color: grey;
+	color: white;
+	padding: 5px 10px;
+	border: none;
+	cursor: pointer;
+}
+.people{
+	width: 10%;
+	margin-left: 2%;
+}
